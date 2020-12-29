@@ -48,7 +48,7 @@ function Lists(props) {
                         <th>surname</th>
       
                         <th>phoneNumber</th>
-                        <th >  islemler</th>
+                        <th > islemler</th>
                     </tr>
                 </thead>
                 {rows}
